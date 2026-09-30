@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.ibfix.siddur",
+        "sha256_cert_fingerprints": ["0F:FB:FE:4A:AA:97:28:D2:40:73:4E:3A:64:68:CD:A0:BD:62:6B:E8:8B:16:98:72:2F:B7:B1:69:36:48:62:A1"]
+      }
+    }]
