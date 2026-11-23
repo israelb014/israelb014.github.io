@@ -1,8 +1,26 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "com.ibfix.siddur",
-        "sha256_cert_fingerprints": ["0F:FB:FE:4A:AA:97:28:D2:40:73:4E:3A:64:68:CD:A0:BD:62:6B:E8:8B:16:98:72:2F:B7:B1:69:36:48:62:A1"]
-      }
-    }]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.ibfix.siddur",
+      "sha256_cert_fingerprints": [
+        "0F:FB:FE:4A:AA:97:28:D2:40:73:4E:3A:64:68:CD:A0:BD:62:6B:E8:8B:16:98:72:2F:B7:B1:69:36:48:62:A1"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.ibfix.merotzwiki",
+      "sha256_cert_fingerprints": [
+        "CE:2B:51:90:0F:4D:03:4B:B9:61:E4:6A:B7:6E:DD:51:E4:DA:BA:0F:F5:9D:5B:7F:FF:9D:61:FA:C3:18:F4:BA"
+      ]
+    }
+  }
+]
